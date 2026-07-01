@@ -41,14 +41,11 @@ Nesta organização você encontrará projetos como:
 A Yen Studios é construída por pessoas apaixonadas por desenvolvimento.
 
 <p align="center">
-  <a href="https://github.com/1v2b">
-    <img src="https://github.com/1v2b.png?size=100" width="80" alt="1v2b"/>
+  <a href="https://github.com/PotDevxs">
+    <img src="https://github.com/PotDevxs.png?size=100" width="80" alt="PotDevxs"/>
   </a>
-  <a href="https://github.com/hicew">
-    <img src="https://github.com/hicew.png?size=100" width="80" alt="hicew"/>
-  </a>
-  <a href="https://github.com/xwtey">
-    <img src="https://github.com/xwtey.png?size=100" width="80" alt="xitey"/>
+  <a href="https://github.com/decrei">
+    <img src="https://github.com/decrei.png?size=100" width="80" alt="decrei"/>
   </a>
 </p>
 
